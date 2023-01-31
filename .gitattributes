@@ -1,1 +1,2 @@
 *.ts linguist-language=TypeScript
+*.css linguist-detectable=false
