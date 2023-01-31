@@ -1,8 +1,8 @@
 # Project title
 URL Shorten.
 
-##Description
+## Description
 Built with TypeScript React. 
 
-##Usage
+## Usage
 Users can convert long URL strings to shortened versions.
