@@ -1,5 +1,5 @@
 # Project title
-URL Shorten.
+URL Shorten.🔗
 
 ## Description
 Built with TypeScript, React. 
