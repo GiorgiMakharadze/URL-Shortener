@@ -15,7 +15,7 @@ const LinkResult = ({ inputValue }: LinkResultProps): JSX.Element => {
   const [loading, setLoading] = useState<boolean>(false);
   const [error, setError] = useState<boolean>(true);
 
-  const fetchData = async () => {
+  const fetchData = async (): Promise<void> => {
     try {
       setLoading(true);
       const res = await axios(
